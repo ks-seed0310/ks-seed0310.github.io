@@ -1,1 +1,2 @@
 User-agent: *
+Sitemap: https://ks-seed0310.github.io/sitemap.xml
